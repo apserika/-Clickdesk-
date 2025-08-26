@@ -5,7 +5,7 @@ Disponível para **Web, Desktop e Mobile**.
 
 ---
 
-## 🎯 Descrição do Desafio  
+## 🎯 Descrição Geral 
 Empresas enfrentam dificuldades em organizar e priorizar chamados de TI, o que gera atrasos no atendimento e perda de eficiência.  
 O **Click Desk** foi desenvolvido para automatizar a classificação e priorização de chamados utilizando **IA**, garantindo maior agilidade e qualidade no suporte.  
 
