@@ -69,3 +69,27 @@ O **Click Desk** foi desenvolvido para automatizar a classificação e prioriza�
  │   └── checklist.md
  ├── README.md
  └── build.gradle / pom.xml
+
+
+# Clonar o repositório
+git clone https://github.com/seu-usuario/click-desk.git  
+
+# Acessar pasta do projeto
+cd click-desk  
+
+# Rodar backend (Spring Boot com Maven)
+./mvnw spring-boot:run
+
+# ou (com Gradle)
+./gradlew bootRun
+
+Para rodar frontend (web, mobile e desktop):
+	•	Consulte as instruções específicas em cada pasta (frontend-web/, mobile/, desktop/).
+
+Como testar 🧪
+# Rodar testes unitários do backend
+./mvnw test
+
+
+
+
